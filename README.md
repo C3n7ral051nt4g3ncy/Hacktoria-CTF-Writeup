@@ -7,7 +7,7 @@ Hacktoria is a passion project made to provide people with something fun, unique
 - Hacktoria on Twitter: https://twitter.com/hacktoria?s=20&t=l5ZOgDZm3nXKMWYpZTBfAQ
 - Hacktoria Discord Server: https://discord.gg/XfZ9AzYE48
 
-- My Twitter [Twitter @OSINT_Tactical](https://twitter.com/OSINT_Tactical)
+- My 🐥 [Twitter @OSINT_Tactical](https://twitter.com/OSINT_Tactical)
 
 ---
 ### CTF Finishers
