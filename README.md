@@ -12,15 +12,15 @@ Hacktoria is a passion project made to provide people with something fun, unique
 ---
 ### CTF Finishers
 
-I was very happy go get full points & succeeded in all challenges.<br/>
-<ins>CTF Level </ins>: Medium (Step 6 would be classed as **Difficult**)
+I was very happy to get full points & to succeed in all steps/challenges.<br/>
+<ins>CTF Level </ins>: Medium (Step 6 would be classed as **difficult**)
 
 <img width="1978" src="https://user-images.githubusercontent.com/104733166/170821733-cec5a27e-c8dd-4323-869a-f444bff5b4b4.png">
 
 ---
 ### CTF Information
 
-The CTF had 6 Steps, in order to get full points each step had to be solved.
+The CTF had 6 Steps, in order to get full points each step had to be solved by providing the right answer/flag.
 
 
 ---
