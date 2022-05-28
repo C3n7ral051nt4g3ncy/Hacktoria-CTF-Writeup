@@ -1,6 +1,6 @@
 # STEP 1
 
-What do all the victims have in common? **Why are they being targeted?** <br>
+**Instructions:** What do all the victims have in common? **Why are they being targeted?** <br>
 <ins>(one word answer)</ins>
 
 From the Hacktoria Website [download the Police Report](https://hacktoria.com/wp-content/uploads/2022/05/police-reports.pdf/)<br>
