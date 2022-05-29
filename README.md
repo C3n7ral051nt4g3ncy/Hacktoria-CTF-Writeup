@@ -4,7 +4,7 @@ Downtown Murderer CTF [05-2022]
 Hacktoria is a passion project made to provide people with something fun, unique and educational. If you’re into CyberSecurity, Technology, OSINT or any related field, and want to get involved, reach out to Hacktoria about whatever idea or collaboration you have in mind.
 
 - Hacktoria CTF link: https://hacktoria.com/monthly-ctf/downtown-murderer/
-- Hacktoria on Twitter: https://twitter.com/hacktoria?s=20&t=l5ZOgDZm3nXKMWYpZTBfAQ
+- Hacktoria on Twitter: https://twitter.com/hacktoria
 - Hacktoria Discord Server: https://discord.gg/XfZ9AzYE48
 
 - My 🐥 [Twitter @OSINT_Tactical](https://twitter.com/OSINT_Tactical)
