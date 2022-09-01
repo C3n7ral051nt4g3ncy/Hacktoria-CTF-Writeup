@@ -1,5 +1,5 @@
 # Hacktoria-CTF-Writeup 👾
-Downtown Murderer CTF [05-2022]
+Hacktoria Downtown Murderer CTF [05-2022]
 
 Hacktoria is a passion project made to provide people with something fun, unique and educational. If you’re into CyberSecurity, Technology, OSINT or any related field, and want to get involved, reach out to Hacktoria about whatever idea or collaboration you have in mind.
 
