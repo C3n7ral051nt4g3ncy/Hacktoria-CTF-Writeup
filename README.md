@@ -1,5 +1,5 @@
 # Hacktoria CTF Writeup 👾
-Hacktoria Downtown Murderer CTF [05-2022] 
+Hacktoria: CTF Downtown Murderer CTF [05-2022] 
 
 
 <img width="433" src="https://user-images.githubusercontent.com/104733166/188321243-70f8e813-038e-4e2c-8beb-00800fcee14f.jpeg">
